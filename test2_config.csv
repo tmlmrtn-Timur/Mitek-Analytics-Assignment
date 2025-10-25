@@ -1,0 +1,4 @@
+mean_line,no,Do not show mean line
+trend_line,yes,Show trend line
+xlabel,Date,Time axis
+ylabel,Values,No units

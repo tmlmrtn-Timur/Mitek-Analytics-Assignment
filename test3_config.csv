@@ -1,0 +1,4 @@
+mean_line,yes,Show mean line
+trend_line,yes,Show trend line
+xlabel,Time,Time of Day
+ylabel,Values,No units
